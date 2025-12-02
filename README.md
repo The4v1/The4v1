@@ -58,7 +58,7 @@
 ### <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="20"> HackTheBox
 - **Machines Pwned:** 28
 - **Level:** Intermediate
-- [Visit Profile](https://app.hackthebox.com/profile/The4v1)
+- [Visit Profile](https://app.hackthebox.com/users/1559019)
 
 </td>
 <td width="33%" valign="top">
@@ -107,4 +107,3 @@
 ⭐ If you find my work interesting, don't forget to star my repositories! Let's build a more secure web together.
 
 ---
-<img width="1485" height="802" alt="image" src="https://github.com/user-attachments/assets/fffa2cce-a507-491e-905c-a53dc2cc91d8" />
