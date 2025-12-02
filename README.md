@@ -48,7 +48,7 @@
 
 ### <img src="https://tryhackme.com/img/favicon.png" width="20"> TryHackMe
 - **Rooms Completed:** 97
-- **Level:** Advanced
+- **Level:** Intermediate
 - [Visit Profile](https://tryhackme.com/p/The4v1)
 
 </td>
