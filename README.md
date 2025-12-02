@@ -1,6 +1,6 @@
 # 🔐 Hi, I'm Avinash Jangir 
 
-**Web Application Security • Penetration Testing • Ethical Hacking**
+**Web Application Security • Security Analyst • Offensive Security Enthusiast**
 
 ---
 
