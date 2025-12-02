@@ -6,7 +6,6 @@
 
 ## 🌟 About Me
 
-- 🎯 Security Analyst & **Web Application Penetration Tester**
 - 🔍 Specialized in **Web Apps, APIs & Ethical Hacking**
 - 🐧 Proficient with **Kali Linux, Burp Suite & OWASP Methodologies**
 - 🎓 Pursuing BCA in **Computer Science & Cybersecurity** from Chandigarh University
