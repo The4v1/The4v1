@@ -55,7 +55,7 @@
 <td width="33%" valign="top">
 
 ### <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="20"> HackTheBox
-- **Machines Pwned:** 28
+- **Machines Pwned:** 0
 - **Level:** Intermediate
 - [Visit Profile](https://app.hackthebox.com/users/1559019)
 
@@ -63,7 +63,7 @@
 <td width="33%" valign="top">
 
 ### <img src="https://portswigger.net/favicon.ico" width="20"> PortSwigger
-- **Labs Solved:** 100+
+- **Labs Solved:** 80+
 - **Specialization:** Web Security
 - Focus on advanced web vulnerabilities
 
