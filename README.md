@@ -84,16 +84,16 @@
 
 ---
 
-## 🎯 Career Goal
-
-**To become a skilled Application Security Professional** who secures modern Web & Mobile systems against real-world attacks, combining deep technical expertise with cutting-edge security practices.
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-jangir-)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:the4vinash@gmail.com)
+
+---
+
+## 🎯 Career Goal
+
+**To become a skilled Application Security Professional** who secures modern Web & Mobile systems against real-world attacks, combining deep technical expertise with cutting-edge security practices.
 
 ---
 
