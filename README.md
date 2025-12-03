@@ -47,7 +47,7 @@
 <td width="33%" valign="top">
 
 ### <img src="https://tryhackme.com/img/favicon.png" width="20"> TryHackMe
-- **Rooms Completed:** 97
+- **Rooms Completed:** 100+
 - **Level:** Intermediate
 - [Visit Profile](https://tryhackme.com/p/The4v1)
 
