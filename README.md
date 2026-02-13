@@ -51,13 +51,6 @@
 - **Level:** Intermediate
 - [Visit Profile](https://tryhackme.com/p/The4v1)
 
-</td>
-<td width="33%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="20"> HackTheBox
-- **Machines Pwned:** 10+
-- **Level:** Intermediate
-- [Visit Profile](https://app.hackthebox.com/users/1559019)
 
 </td>
 <td width="33%" valign="top">
