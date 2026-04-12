@@ -1,6 +1,6 @@
 # 🔐 Hi, I'm Avinash Jangir 
 
-**Web Application Security • Security Analyst • Offensive Security Enthusiast**
+**Web Application Security • Security Analyst • Application Security Enthusiast**
 
 ---
 
