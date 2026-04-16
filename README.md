@@ -56,7 +56,7 @@
 <td width="33%" valign="top">
 
 ### <img src="https://portswigger.net/favicon.ico" width="20"> PortSwigger
-- **Labs Solved:** 200+
+- **Labs Solved:** 270/270
 - **Specialization:** Web Security
 - Focus on advanced web vulnerabilities
 
